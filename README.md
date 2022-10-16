@@ -39,4 +39,6 @@ And you are good to go.
 
 ## Output:
 <img width="918" alt="s1" src="https://user-images.githubusercontent.com/84279900/196031655-ca3aee44-5894-4770-9a85-5822c059a673.png">
+
+
 <img width="809" alt="s2" src="https://user-images.githubusercontent.com/84279900/196031668-73220ac7-40d0-40e5-a1f9-791ba033bd54.png">
